@@ -1,7 +1,6 @@
 <div align="center">
-
-<img src="Amazon_logo.svg" width="200" alt="Amazon Logo"/>
-
+  <img src="Amazon_logo.svg" alt="Amazon Logo" width="200">
+</div>
 # 🛒 AMAZON User Segmentation
 
 ### *An End-to-End Machine Learning System for Customer Intelligence*
