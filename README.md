@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Amazon_logo.svg" alt="Amazon Logo" width="200">
+  <img src="Amazon_logo.png" alt="Amazon Logo" width="200">
 </div>
 # 🛒 AMAZON User Segmentation
 
